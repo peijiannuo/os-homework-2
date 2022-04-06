@@ -1,0 +1,12 @@
+guess
+hello
+
+*.elf
+*.o
+
+.gdb*
+.idea
+.vscode
+.vs
+
+cmake*
